@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Desktop",
+        "subFolders": {
+            "name": "Books",
+            "subFolders": {},
+            "files": [
+                {
+                    "name": "good book.pdf",
+                    "extension": "pdf",
+                    "size": 2.5
+                },
+                {
+                    "name": "another good book.pdf",
+                    "extension": "pdf",
+                    "size": 4
+                }
+            ]
+        },
+        "files": [
+            {
+                "name": "another good book.pdf",
+                "extension": "pdf",
+                "size": 4
+            }
+        ]
+    },
+    {
+        "name": "Home",
+        "subFolders": {},
+        "files": [
+            {
+                "name": "good book.pdf",
+                "extension": "pdf",
+                "size": 2.5
+            }
+        ]
+    }
+]

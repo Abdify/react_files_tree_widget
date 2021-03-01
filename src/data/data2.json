@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Folder",
+        "name": "Home",
+        "subFolders": [
+            {
+                "type": "subFolder",
+                "name": "Books",
+                "subFolders": [],
+                "files": ["File in Book subFolder.txt"]
+            }
+        ],
+        "files": ["the code.pdf", "You can't code.pdf", "the morse.pdf"]
+    },
+    {
+        "type": "Folder",
+        "name": "Apps",
+        "subFolders": [],
+        "files": ["File in Apps folder.exe"]
+    },
+    ["out of the box.pdf"]
+]
